@@ -38,6 +38,20 @@ Seja livre e escreva oque quiser!
 2. Após salvar as alterações, clique em *Publish branch* e as alterações aparecerão no GitHub Web. 
 
 PUBLICADO!
-Agora no repositório público no GitHub Web, qualquer pessoa poderá fazer alterações ao clicar em *Pull* dentro do GitHub Web. 
+Agora no repositório público no GitHub Web, qualquer pessoa poderá fazer alterações ao clicar em *Pull* dentro do GitHub Web.
+
+No dia 08/02 demos continuidade ao conteúdo, aprendendo sobre o branch com os seguintes passos: 
+1. Abrimos os **GitHub Web**, **GitHub Desktop** e o **VSC**;
+
+2. Abrimos a pasta que criamos na primeira aula para testar os códigos, no meu caso a pasta "newbranch"
+
+3. vamos no **GitHub Desktop** selecionamos os diretório que está sendo executado no **VSC**, o newbranch;
+
+4. Criamos um branch no campo __"Branch"__ e nomeamos da forma que quisermos, no meu casos "newbranch";
+5. Voltamos pro **VSC** fizemos um novo file chamado __"teste.txt"__ e adicionamos uma frase de teste lá;
+6. Voltamos no **GitHub Desktop** e damos commit dentro da branch sobre o __"teste.txt"__
+7. Selecionamos o __"main"__ em **Current Branch** e voltamos ao **VSC** e criamos um novo file de teste 2, resultando agora em dois files testes, um na branch nova e outro no main;
+8. Fazemos a unificação da branch ao main apertando em __"Marge into current branch..."__;
+9. Agora não se tem mais necessidade de se ter a branch __"newbranch"__ já que unificamos ela em main, então clicamos nela com o botão direito e vamos excluí-la.
 
 Obrigada!S2
